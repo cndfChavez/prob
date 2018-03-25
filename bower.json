@@ -1,0 +1,21 @@
+{
+  "name": "prob-stat",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Aljon Gutierrez <aljon.gutierrez@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "eonasdan-bootstrap-datetimepicker": "^4.17.37",
+    "twitter-bootstrap-wizard": "1.3.2"
+  }
+}
